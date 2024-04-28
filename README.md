@@ -59,10 +59,10 @@ The figures below show the best results we obtained using the TADGAN network. Ho
 
 ![results2](https://github.com/pmaletti/GM_Project/blob/main/images/ResultsGAN.png?raw=true)
 
-## Installation
-The code is running with env: pytorch 1.7, torchvision 0.8.2 , numpy 1.19.2 and matplotlib 3.3.2. (Not tested in other version.) 
-## Evaluation
-```
-python main.py
-```
-## Summary
+## How to Run?
+cd ProjectECE695/
+./scripts/VAE.sh
+./scripts/GAN.sh
+
+To evaluate the VAE, run ./scripts/VAE.sh and to run the GAN, use ./scripts/GAN.sh. 
+Make sure that you are within the ProjectECE695/ directory. 
