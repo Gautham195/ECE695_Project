@@ -61,6 +61,8 @@ The figures below show the best results we obtained using the TADGAN network. Ho
 
 ## Evaluation
 ```
-python main.py
+cd ProjectECE695
+./scripts/VAE.sh
+./scripts/GAN.sh
 ```
 
