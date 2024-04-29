@@ -59,10 +59,8 @@ The figures below show the best results we obtained using the TADGAN network. Ho
 
 ![results2](https://github.com/pmaletti/GM_Project/blob/main/images/ResultsGAN.png?raw=true)
 
-## How to Run?
-cd ProjectECE695/
-./scripts/VAE.sh
-./scripts/GAN.sh
+## Evaluation
+```
+python main.py
+```
 
-To evaluate the VAE, run ./scripts/VAE.sh and to run the GAN, use ./scripts/GAN.sh. 
-Make sure that you are within the ProjectECE695/ directory. 
