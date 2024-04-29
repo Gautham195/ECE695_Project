@@ -65,4 +65,8 @@ cd ProjectECE695
 ./scripts/VAE.sh
 ./scripts/GAN.sh
 ```
+To run the VAE, use ./scripts/VAE.sh and to run the GAN, use ./scripts/GAN.sh
+The output plots must be in the folder ProjectECE695
 
+
+Thank you! :)
