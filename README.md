@@ -8,7 +8,7 @@ This repository was created by Gautham Reddy Prakash (gprakas@purdue.edu) and Pr
 Anomaly detection is the detection of rare occurrences that are different from the established pattern of behaviours. In the real world applications, these anomalies signify erroneous system behaviour which must be detected quickly to avoid system failure. Hence is it vital that they are detected easily.
 
 
-![introplot](https://github.com/pmaletti/GM_Project/blob/main/images/Idea.png?raw=true)
+![introplot](https://github.com/Gautham195/ECE695_Project/blob/main/images/IntroPics.png?raw=true)
 
 
 
@@ -20,7 +20,7 @@ Each channel contains a train signal which has no anomalies and a test signal wi
 
 ## Idea
 
-![ideaplot](https://github.com/pmaletti/GM_Project/blob/main/images/IntroPics.png?raw=true)
+![ideaplot](https://github.com/Gautham195/ECE695_Project/blob/main/images/Idea.png)
 
 
 
