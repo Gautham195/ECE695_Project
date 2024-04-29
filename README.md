@@ -29,10 +29,10 @@ Each channel contains a train signal which has no anomalies and a test signal wi
 
 The VAE draws from a distribution and hence, it is not severely affected by anomalies. This is the intuition behind using a VAE. 
 
-![Implementation](https://github.com/pmaletti/GM_Project/blob/main/images/Implementation.png?raw=true)
+![Implementation](https://github.com/Gautham195/ECE695_Project/blob/main/images/Implementation.png)
 
 2) We also tried to do the same but with a Generative Adverserial Network (GAN). The training procedure of the GAN is shown below - 
-![Implementation2](https://github.com/pmaletti/GM_Project/blob/main/images/TrainingProcess.png?raw=true)
+![Implementation2](https://github.com/Gautham195/ECE695_Project/blob/main/images/TrainingProcess.png)
 
 The GAN training procedure and architecture was inspired by the [TADGAN](https://ieeexplore.ieee.org/abstract/document/9378139) paper. It performs the same function as a VAE, but the only difference is that it was trained in a Generative Adverserial way.
 
@@ -51,13 +51,13 @@ The GAN training procedure and architecture was inspired by the [TADGAN](https:/
 
 The output of the VAE is compared to the actual signal in the leftmost figure. The right-most figure has the anomaly that was detected from this particular sequence. 
 
-![results](https://github.com/pmaletti/GM_Project/blob/main/images/Results.png?raw=true)
+![results](https://github.com/Gautham195/ECE695_Project/blob/main/images/Results.png)
 
 2) Generative Adverserial Networks (GAN) results -
 
 The figures below show the best results we obtained using the TADGAN network. However, the results were poor and we did not proceed with the detection of anomalies since the reconstruction was bad. 
 
-![results2](https://github.com/pmaletti/GM_Project/blob/main/images/ResultsGAN.png?raw=true)
+![results2](https://github.com/Gautham195/ECE695_Project/blob/main/images/ResultsGAN.png)
 
 ## Evaluation
 ```
